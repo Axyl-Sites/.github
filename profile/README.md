@@ -6,9 +6,9 @@
 
 ![Discord](https://img.shields.io/discord/1297444443103956992)
 
-# Hi, We are Axyl Site 👋
+# Hi, We are Axyl Sites 👋
 
-We are a dedicated group of developers, working to help people removed themselves from the walled gardens of webhosting
+We are a dedicated group of developers, working to help people remove themselves from the walled gardens of webhosting
 
 # FAQ
 
